@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Silnun data trip"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "donghun.yi"
+name                     : "Silnun"
 description              : "data 공부 여행 기록지"
 url                      : "https://silnunData.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "donghun.yi"
+  name             : "Silnun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "data 공부 여행 기록지"
   location         : "Hwaseong, Korea"
-  email            : "huni2604@gmain.com"
+  email            : "huni2604@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
