@@ -4,7 +4,7 @@ title: "datamanim Type1. 월드컵 출전선수 골기록 데이터"
 ---
 
 
-# datamanim Type1. 월드컵 출전선수 골기록 데이터
+# 월드컵 출전선수 골기록 데이터
 
 
 ```python
