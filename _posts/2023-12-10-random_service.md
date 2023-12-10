@@ -3,6 +3,7 @@ layout: single
 title: 'Threshold(경계값)에 따른 분류평가지표 구하기 (서비스 이탈 예측 데이터)'
 categories: 'MachineLearning'
 tag: [machinelearning,classifier,randomforest,datamanim,Type2]
+toc: true
 ---
 
 # 서비스 이탈 예측 데이터
