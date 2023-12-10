@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air"  #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Silnun data trip"
+title                    : "Silnun Data"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Python, R"
 name                     : "Silnun"
 description              : "data 공부 여행 기록지"
 url                      : "https://silnunData.github.io"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Silnun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/github-image.png"
   bio              : "data 공부 여행 기록지"
   location         : "Hwaseong, Korea"
   email            : 
