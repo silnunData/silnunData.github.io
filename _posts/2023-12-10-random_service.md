@@ -418,7 +418,7 @@ sns.boxplot(x_train.Age)
 
 
     
-![png](output_14_1.png)
+![output_14_1](https://github.com/silnunData/silnunData.github.io/assets/134177070/bf857158-7c2f-4456-b58f-112214d8b5a2)
     
 
 
