@@ -3,6 +3,7 @@ layout: single
 title: "datamanim Type1. 월드컵 출전선수 골기록 데이터"
 categories: datamanim
 tag: [datamanim,Type1,preprocessing]
+toc: true
 ---
 
 

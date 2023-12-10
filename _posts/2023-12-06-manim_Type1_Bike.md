@@ -3,6 +3,7 @@ layout: single
 title: 'datamanim Type1. 서울시 따릉이 이용정보 데이터'
 categories: datamanim
 tag: [datamanim,Type1,preprocessing]
+toc: true
 ---
 
 # 서울시 따릉이 이용정보 데이터
