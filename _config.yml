@@ -264,12 +264,15 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
       show_date: true
+      toc: true # 오른쪽 목차 생기는 여부
+      toc_sticky: true
+      toc_label: Contents
+      author_profile: false # 왼쪽 프로필 보이는 여부
 
   # _pages 
   - scope:
