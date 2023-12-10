@@ -957,7 +957,7 @@ df_tg.sort_values(['대여시간','이용 횟수'], ascending = False).groupby([
 
 
 
-# Q40. 남성(‘M’ or ‘m’)과 여성(‘F’ or ‘f’)의 이동거리값의 평균값을 구하여라
+## Q40. 남성(‘M’ or ‘m’)과 여성(‘F’ or ‘f’)의 이동거리값의 평균값을 구하여라
 
 
 ```python
