@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 'datamanim Type1. 전세계 행복도 지표 데이터'
+categories: datamanim
 ---
 
 # 전세계 행복도 지표 데이터

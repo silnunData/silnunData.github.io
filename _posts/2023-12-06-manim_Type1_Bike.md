@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 'datamanim Type1. 서울시 따릉이 이용정보 데이터'
+categories: datamanim
 ---
 
 # 서울시 따릉이 이용정보 데이터
