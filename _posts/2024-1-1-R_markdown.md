@@ -1,5 +1,9 @@
-(R) markdown 문법
-================
+---
+title: "(R) markdown 문법"
+categories: R
+tag: ['R','Rmd']
+---
+
 
 # echo 옵션
 
