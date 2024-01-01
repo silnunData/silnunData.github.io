@@ -2,6 +2,7 @@
 title: '(R) 통계검정의 2가지 근본맥락 구간추정과 가설검정'
 categories: R
 tag: ['R','statistic']
+use_math: true
 ---
 
 
