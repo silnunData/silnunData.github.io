@@ -3,7 +3,7 @@
 title: "(R) markdown 문법"
 output: github_document
 categories: R
-tage: tag: [R,Rmd]
+tag: [R,Rmd]
 ---
 
 
