@@ -15,9 +15,7 @@ use_math: true
 
 ### 1) 모분산을 알때 (Z 검정통계량 사용)
 
-$$
-\bar{X} \pm Z_{a/2} \frac{\sigma_n}{\sqrt{n}} 
-$$
+$$\bar{X} \pm Z_{a/2} \frac{\sigma_n}{\sqrt{n}}$$
 
 ### 2) 모분산을 모를때, 표본분산을 사용 (t 검정통계량 사용)
 
