@@ -2,7 +2,6 @@
 title: "(R) markdown 문법"
 categories: R
 tag: ['R','Rmd']
-use_math: true
 ---
 
 
