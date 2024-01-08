@@ -46,7 +46,7 @@ print(shapiro.test(control))
 car::qqPlot(control)
 ```
 
-![](/images/unnamed-chunk-2-1.png)<!-- -->
+![](/images/twosample1.png)<!-- -->
 
     ## [1] 1 3
 
@@ -69,7 +69,7 @@ print(shapiro.test(treated))
 car::qqPlot(treated)
 ```
 
-![](/images/unnamed-chunk-3-1.png)<!-- -->
+![](/images/twosample2.png)<!-- -->
 
     ## [1] 6 4
 
@@ -170,7 +170,7 @@ print(shapiro.test(control))
 car::qqPlot(control)
 ```
 
-![](/images/unnamed-chunk-7-1.png)<!-- -->
+![](/images/twosample3.png)<!-- -->
 
     ## [1] 1 3
 
@@ -191,7 +191,7 @@ print(shapiro.test(treated))
 car::qqPlot(treated)
 ```
 
-![](/images/unnamed-chunk-8-1.png)<!-- -->
+![](/images/twosample4.png)<!-- -->
 
     ## [1] 6 2
 
