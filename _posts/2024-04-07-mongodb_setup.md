@@ -4,7 +4,7 @@ categories: setup
 tag: ['MongoDB','homebrew']
 ---
 
-# mac M1 에서 mongodb setup 하기
+# MongoDB setup 과 mongosh 설치 guide (mac M1)
 
 ## 1. homebrew 설치  
 homebrew를 통해 필요한 것들을 설치 할 것이기 떄문에, 우선 homebrew를 설치한다.  
